@@ -1,6 +1,6 @@
 # Remind me Bot
 
-A discord bot to to remind you to do stuff.
+A discord bot to to remind you to do stuff. This was made hastily so feel free to contribute!
 
 [Invite it!](https://discord.com/api/oauth2/authorize?client_id=1042247761053098054&permissions=138240&scope=bot)
 
